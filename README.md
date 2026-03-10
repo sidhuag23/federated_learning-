@@ -19,7 +19,7 @@ prefered linux/unix based system
 ```
 
 #### Containerized architecture federeated learning using docker 
-![dockerizedflowerfederated.drawio.png]
+![Dockerized Flower Federated Architecture](dockerizedflowerfederated.drawio.png)
 
 #### file structure 
 ```python
