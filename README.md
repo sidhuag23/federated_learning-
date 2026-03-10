@@ -45,7 +45,7 @@ inside folders create
 	->requirements.txt
 ```
 
-![02733deb12b516bd5d02e25ae55e2cee.png](:/239c700ca4d04056ae2ca1b5adf4680e)
+![path.png](path.png)
 
 #### Running the code 
 #### clone the repository
