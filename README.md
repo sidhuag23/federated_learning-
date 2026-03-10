@@ -19,7 +19,7 @@ prefered linux/unix based system
 ```
 
 #### Containerized architecture federeated learning using docker 
-![a2e531927df1f7777accfa7a23a67edf.png](:/3bb57e4feadd414f8c584319699e8aee)
+![a2e531927df1f7777accfa7a23a67edf.png](:/docker_structure.png)
 
 #### file structure 
 ```python
